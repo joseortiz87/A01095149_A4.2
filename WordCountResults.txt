@@ -1,0 +1,8 @@
+hello: 140
+banana: 180
+date: 172
+word: 169
+apple: 178
+cherry: 161
+
+Time Elapsed: 0.00 seconds
